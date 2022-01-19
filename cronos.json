@@ -1,0 +1,38 @@
+[
+    {
+        "id":"vvs-cro-btc",
+        "name":"CRO-BTC",
+        "token":"CRO-BTC LP",
+        "tokenDescription":"VVS",
+        "tokenAddress":"0x8F09fFf247B8fDB80461E5Cf5E82dD1aE2EBd6d7",
+        "tokenDecimals":18,
+        "tokenDescriptionUrl":"#",
+        "earnedToken":"MESOBTCCRO",
+        "earnedTokenAddress":"0x3486C1Cf375cce79Ac2cBd8f9Bd22345e17C4911",
+        "earnContractAddress":"0x3486C1Cf375cce79Ac2cBd8f9Bd22345e17C4911",
+        "pricePerFullShare":1,
+        "tvl":0,
+        "oracle":"lps",
+        "oracleId":"vvs-cro-btc",
+        "oraclePrice":0,
+        "depositsPaused":false,
+        "status":"active",
+        "platform":"VVS",
+        "assets":[
+          "CRO",
+          "WBTC"
+        ],
+        "risks":[
+          "COMPLEXITY_LOW",
+          "BATTLE_TESTED",
+          "IL_LOW",
+          "MCAP_LARGE",
+          "AUDIT",
+          "CONTRACTS_VERIFIED"
+        ],
+        "stratType":"StratLP",
+        "withdrawalFee":"0%",
+        "buyTokenUrl":"https://vvs.finance/swap?outputCurrency=0x062E66477Faf219F25D27dCED647BF57C3107d52",
+        "addLiquidityUrl":"https://vvs.finance/add/CRO/0x062E66477Faf219F25D27dCED647BF57C3107d52"
+      }
+]
