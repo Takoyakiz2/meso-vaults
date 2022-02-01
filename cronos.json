@@ -31,6 +31,7 @@
             "CONTRACTS_VERIFIED"
         ],
         "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-cro-btc.png",
         "withdrawalFee": "0%",
         "buyTokenUrl": "https://vvs.finance/swap?outputCurrency=0x062E66477Faf219F25D27dCED647BF57C3107d52",
         "addLiquidityUrl": "https://vvs.finance/add/CRO/0x062E66477Faf219F25D27dCED647BF57C3107d52"
@@ -68,6 +69,7 @@
         ],
         "stratType": "StratLP",
         "withdrawalFee": "0%",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-cro-btc.png",
         "buyTokenUrl": "https://vvs.finance/swap?outputCurrency=0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
         "addLiquidityUrl": "https://vvs.finance/add/CRO/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a"
     },
@@ -104,6 +106,7 @@
         ],
         "stratType":"StratLP",
         "withdrawalFee":"0%",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-cro-btc.png",
         "buyTokenUrl":"https://vvs.finance/swap?outputCurrency=0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
         "addLiquidityUrl":"https://vvs.finance/add/CRO/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03"
       },
@@ -126,6 +129,7 @@
         "depositsPaused":false,
         "status":"active",
         "platform":"VVS",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-cro-btc.png",
         "assets":[
           "VVS",
           "USDC"
