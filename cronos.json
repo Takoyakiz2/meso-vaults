@@ -30,6 +30,10 @@
             "AUDIT",
             "CONTRACTS_VERIFIED"
         ],
+        "labels": [
+          "LOW RISK",
+          "RUGDOC REVIEWED"
+        ], 
         "stratType": "StratLP",
         "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-cro-btc.png",
         "withdrawalFee": "0%",
@@ -67,6 +71,10 @@
             "AUDIT",
             "CONTRACTS_VERIFIED"
         ],
+        "labels": [
+          "LOW RISK",
+          "RUGDOC REVIEWED"
+        ], 
         "stratType": "StratLP",
         "withdrawalFee": "0%",
         "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-cro-btc.png",
@@ -96,6 +104,10 @@
           "VVS",
           "CRO"
         ],
+        "labels": [
+          "LOW RISK",
+          "RUGDOC REVIEWED"
+        ], 
         "risks":[
           "COMPLEXITY_LOW",
           "BATTLE_TESTED",
@@ -142,6 +154,10 @@
           "AUDIT",
           "CONTRACTS_VERIFIED"
         ],
+        "labels": [
+          "LOW RISK",
+          "RUGDOC REVIEWED"
+        ],        
         "stratType":"StratLP",
         "withdrawalFee":"0%",
         "buyTokenUrl":"https://vvs.finance/swap?outputCurrency=0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
