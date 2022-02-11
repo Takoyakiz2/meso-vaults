@@ -18,6 +18,16 @@
         "depositsPaused": false,
         "status": "active",
         "platform": "VVS",
+        "fees": {
+          "performance": {
+            "holders": 0.01,
+            "treasury": 0.005,
+            "devs": 0.005,
+            "harvest": 0.005
+          },
+          "withdrawal": 0,
+          "deposit": 0
+        },
         "assets": [
             "CRO",
             "WBTC"
@@ -59,6 +69,16 @@
         "depositsPaused": false,
         "status": "active",
         "platform": "VVS",
+        "fees": {
+          "performance": {
+            "holders": 0.01,
+            "treasury": 0.005,
+            "devs": 0.005,
+            "harvest": 0.005
+          },
+          "withdrawal": 0,
+          "deposit": 0
+        },
         "assets": [
             "CRO",
             "ETH"
@@ -100,6 +120,16 @@
         "depositsPaused":false,
         "status":"active",
         "platform":"VVS",
+        "fees": {
+          "performance": {
+            "holders": 0.01,
+            "treasury": 0.005,
+            "devs": 0.005,
+            "harvest": 0.005
+          },
+          "withdrawal": 0,
+          "deposit": 0
+        },
         "assets":[
           "VVS",
           "CRO"
@@ -146,6 +176,16 @@
           "VVS",
           "USDC"
         ],
+        "fees": {
+          "performance": {
+            "holders": 0.01,
+            "treasury": 0.005,
+            "devs": 0.005,
+            "harvest": 0.005
+          },
+          "withdrawal": 0,
+          "deposit": 0
+        },
         "risks":[
           "COMPLEXITY_LOW",
           "BATTLE_TESTED",
