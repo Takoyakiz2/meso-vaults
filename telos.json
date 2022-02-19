@@ -45,7 +45,7 @@
             "RUGDOC REVIEWED"
         ],
         "stratType": "StratLP",
-        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-cro-btc.png",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-tlos-usdc.png",
         "withdrawalFee": "0%",
         "buyTokenUrl": "https://omnidex.finance/swap?outputCurrency=0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
         "addLiquidityUrl": "https://omnidex.finance/add/TLOS/0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
