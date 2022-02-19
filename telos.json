@@ -1,6 +1,6 @@
 [
     {
-        "id": "omnidex-tlos-usdc",
+        "id": "omnidex-wtlos-usdc",
         "name": "TLOS-USDC",
         "token": "TLOS-USDC LP",
         "tokenDescription": "CHARM",
@@ -13,7 +13,7 @@
         "pricePerFullShare": 1,
         "tvl": 0,
         "oracle": "lps",
-        "oracleId": "omnidex-tlos-usdc",
+        "oracleId": "omnidex-wtlos-usdc",
         "oraclePrice": 0,
         "depositsPaused": false,
         "status": "active",
