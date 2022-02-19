@@ -1,1 +1,53 @@
-
+[
+    {
+        "id": "omnidex-tlos-usdc",
+        "name": "TLOS-USDC",
+        "token": "TLOS-USDC LP",
+        "tokenDescription": "CHARM",
+        "tokenAddress": "0x651Fcc98a348C91FDF087903c25A638a25344dFf",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "TLOSUSDC",
+        "earnedTokenAddress": "0x2f9631A9100739F9Da4509Bec69Be6A929F43770",
+        "earnContractAddress": "0x2f9631A9100739F9Da4509Bec69Be6A929F43770",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "omnidex-tlos-usdc",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "OMNIDEX",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0
+        },
+        "assets": [
+            "WTLOS",
+            "USDC"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK",
+            "RUGDOC REVIEWED"
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-cro-btc.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://omnidex.finance/swap?outputCurrency=0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+        "addLiquidityUrl": "https://omnidex.finance/add/TLOS/0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
+    }
+]
