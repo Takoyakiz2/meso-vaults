@@ -20,10 +20,10 @@
         "platform": "OMNIDEX",
         "fees": {
             "performance": {
-                "holders": 0.01,
-                "treasury": 0.005,
-                "devs": 0.005,
-                "harvest": 0.005
+                "holders": 0.02,
+                "treasury": 0.00,
+                "devs": 0.000,
+                "harvest": 0.00
             },
             "withdrawal": 0,
             "deposit": 0
@@ -70,10 +70,10 @@
         "platform": "OMNIDEX",
         "fees": {
             "performance": {
-                "holders": 0.01,
-                "treasury": 0.005,
-                "devs": 0.005,
-                "harvest": 0.005
+                "holders": 0.02,
+                "treasury": 0.00,
+                "devs": 0.00,
+                "harvest": 0.00
             },
             "withdrawal": 0,
             "deposit": 0
